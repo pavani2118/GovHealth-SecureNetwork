@@ -77,12 +77,3 @@ SriLanka-HealthNet-Topology/
 ```
 
 ---
-
-## 📚 Design Justification
-
-> This design follows **department-wise delegation** and **decentralized server control**, improving performance and management. Site-to-site VPN ensures **secure communication** between hospitals while maintaining **local autonomy** for each region's services.
-
----
-
-Let me know if you want me to help generate the `.pkt` file, config backups, or add a license/badge to your GitHub repository!
-```
